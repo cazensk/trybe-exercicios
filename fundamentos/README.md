@@ -1,6 +1,10 @@
-# FRONT-END
+# Fundamentos 
 
-Nesse módulo aprendi sobre `formulários HTML`, `CSS Flexbox` e a como utilizar bibliotecas externas de JavaScript. Na sequência aprendi a criar estilos de forma responsiva, com foco em diferentes tamanhos de tela. E então aprendi sobre as principais funcionalidades da última versão do `JavaScript`, o `ES6`. Na última parte, aprendi a utilizar o framework `React` para criar aplicações de front-end que se conectam com APIs.
+Neste primeiro módulo aprendi tudo que preciso saber para iniciar carreira no mundo do desenvolvimento Web, me transformando em uma pessoa preparada para os módulos de front-end e back-end. 
 
-Com isso me tornei capaz de criar páginas com formulários, estilizadas de forma responsiva, utilizando frameworks e bibliotecas externas para a estilização e validação de dados. Sei agora utilizar as principais funcionalidades do `ECMAScript 6`, a mais recente versão do `JavaScript`. E também sou capaz de criar aplicações completas de front-end utilizando o framework `React`.
+Esse bloco pertence ao módulo de `fundamentos` do curso da [Trybe](https://www.betrybe.com/). Este bloco foi dividido em quatro partes:
 
+1. Para começar, estudei um pouco sobre um famoso tipo de sistema operacional chamado **UNIX**. Além disso, utilizei o terminal para aprender alguns comandos.
+2. Depois de entender como os comandos funcionam e de já ter criado meus primeiros scripts, aprendi a usar o **Git** para guardá-los de forma segura.
+3.  Aqui aprendi a estruturar documentos **HTML**, estilizá-los com o **CSS** e criar comportamentos customizados com o **JavaScript**!
+4. O próximo passo foi aprender a criar sites responsivos e com CSS elegante e eficiente, também a como utilizar o **JavaScript** em sua plenitude, utilizando recursos avançados como **HOF**, **Código assíncrono**, **Testes unitários** entre outras coisas incríveis!

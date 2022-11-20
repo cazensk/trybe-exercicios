@@ -1,4 +1,13 @@
-# Seção - HTML E CSS
+# Seção - Unix & Bash
 
-Esse bloco pertence ao módulo de `fundamentos` do curso da [Trybe](https://www.betrybe.com/). Nesse bloco aprendi sobre as principais tags do HTML para criar a estrutura de páginas web, aprendi a como usar o CSS para estilizar essas tags, usando diferentes formas de selecionar os elementos HTML, e então vi sobre como alterar o posicionamento dos elementos na página e como algumas propriedades específicas alteram as dimensões dos elementos, por último vi sobre o significado que cada elemento HTML carrega e sobre como isso impacta a interpretação do conteúdo da página por robôs e outros elementos da Internet.
 
+
+O Unix é um sistema operacional popular que foi lançado em 1969 e ganhou muitas das variações que se tornaram os principais sistemas operacionais do mercado. Neste bloco aprendi sobre como funciona o Unix e como interagir com ele através do terminal, utilizando o Bash.
+
+A partir deste momento, me tornei capaz de:
+
+- Executar comandos no terminal para navegar entre diretórios;
+- Executar comandos no terminal para criar e manipular arquivos e diretórios;
+- Executar comandos no terminal para realizar buscas;
+
+------

@@ -1,27 +1,38 @@
-# DIA 4
+# DIA 1
 
 O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre HTML semântico. Para isso deveria a partir do código inicial abaixo, desenvolver uma página que apresenta um dos animais mais impressionantes que existem: o [Stomatopoda](https://www.nationalgeographic.com/science/phenomena/2014/07/03/natures-most-amazing-eyes-just-got-a-bit-weirder/). Sendo que toda a estilização da página ficou ao meu critério.
 
 Os requisitos do exercício são:
 
-1. Adicionar um cabeçalho na página contendo o título `Soco a 80km/h: Conheça o Stomatopoda`.
+1. Utilizando o terminal, aplique o comando de criação de diretórios que você aprendeu, crie um diretório chamado `unix_tests` e navegue até ele.
+2. Crie um arquivo de texto com o nome `trybe.txt`.
+3. Crie uma cópia do arquivo `trybe.txt` com o nome `trybe_backup.txt`.
+4. Renomeie o arquivo `trybe.txt`.
+5. Dentro de `unix_tests`, crie um novo diretório chamado `backup`.
+6. Mova o arquivo `trybe_backup.txt` para o diretório `backup`.
+7. Dentro de `unix_tests`, crie um novo diretório chamado `backup2`.
+8. Mova o arquivo `trybe_backup.txt` da pasta `backup` para a pasta `backup2`.
+9. Apague a pasta `backup`.
+10. Renomeie a pasta `backup2` para `backup`.
+11. Veja qual o path completo do diretório atual e liste todos os arquivos dentro dele.
+12. Apague o diretório `backup`.
+13. Limpe o terminal.
 
-2. Adicionar um conjunto de links que representam a área de navegação do site.
-  * Criar um link chamado `Página Inicial`.
-  * Criar um link chamado `Sobre`.
-  * Criar um link chamado `Contato`.
+Parte 2: 
 
-3. Criar um artigo que vai conter os fatos interessantes sobre o `Stomatopoda`. O artigo terá o subtítulo `Fatos sobre o Stomatopoda`.
+1- Crie um novo diretório chamado `unix_tests_search` e entre nele. 2- Na pasta `unix_tests_search`, baixe um arquivo com os nomes de todos os países do mundo utilizando o comando [curl](https://linux.die.net/man/1/curl)
 
-4. Divida o artigo em seções, organizando-o da seguinte forma:
-  * Uma primeira seção contendo informações gerais a respeito do animal. O subtítulo para essa seção ficou a meu critério. Sendo necessário que conste nessa seção seu nome científico, que é `Odontodactylus scyllarus`, em itálico. Além disso, é preciso que haja informação tabular a respeito de sua classificação científica, em específico: `Reino`, `Filo`, `Subfilo`, `Classe`, `Subclasse` e `Ordem`.
-  * As outras seções dizem respeito aos fatos interessantes que você escolheu acerca do animal. Para cada fato escolhido um seção deve ser criada.
-  * Adicionar para cada seção um subtítulo referente ao fato escolhido.
-  * Adicionar, para cada seção, parágrafo(s) descrevendo o fato escolhido. Destacando características impressionantes referentes ao fato que escolhido, de forma a reforçar a unicidade do `Stomatopoda`.
-  * Adicionar, para cada seção, uma imagem, como forma de ilustrar o fato.
-  * Adicionar, por fim, uma seção de referências bibliográficas, contendo uma lista de todos os links que foram usados como base para compilar a página em questão.
-
-5. Adicionar um conteúdo adjacente ao artigo, disponibilizando um link para [este vídeo](https://www.youtube.com/watch?v=E0Li1k5hGBE), que mostra o animal em ação.
-
-6. Adicionar um rodapé na página, mostrando algo do gênero “Conteúdo compilado por , ”.
-
+- Mostre todo o conteúdo do arquivo `countries.txt` na tela.
+- Mostre o conteúdo de `countries.txt`, página por página, até encontrar a `Zambia`.
+- Mostre novamente o conteúdo de `countries.txt` página por página, mas agora utilize um comando para buscar por `Zambia`.
+- Busque por `Brazil` no `countries.txt`.
+- Busque novamente por `brazil`, mas agora utilizando o *lower case*.
+- Crie um novo arquivo chamado `phrases.txt` e adicione algumas frases à sua escolha. Não precisa criar o arquivo pelo terminal.
+- Busque pelas frases que não contenham a palavra `fox`.
+- Conte o número de palavras do arquivo `phrases.txt`.
+- Conte o número de linhas do arquivo `phrases.txt`.
+- Crie os arquivos `empty.tbt` e `empty.pdf`.
+- Liste todos os arquivos do diretório `unix_tests_search`.
+- Liste todos os arquivos que terminem com `txt`.
+- Liste todos os arquivos que terminem com `tbt` ou `txt`.
+- Acesse o manual do comando `ls`.
